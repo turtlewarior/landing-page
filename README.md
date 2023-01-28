@@ -1,2 +1,2 @@
 # landing-page
-A Landing page will be created with HTML and CSS Git and github are used in this project
+A Landing page created with html css and with some knowledge in git and github
